@@ -3,17 +3,17 @@ Primeiro trabalho prático da aula de "Algoritmos Computacionais em Grafo" do se
 
 # Enunciado:
 
-## PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
+### PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
 
-## Instituto de Ciências Exatas e Informática
+### Instituto de Ciências Exatas e Informática
 
-## Lista de Exercícios Prática
+### Lista de Exercícios Prática
 
-## Disciplina : Algoritmos Computacionais em Grafos
+### Disciplina : Algoritmos Computacionais em Grafos
 
-## Professora : Eveline Alonso Veloso
+### Professora : Eveline Alonso Veloso
 
-# Regras Básicas :
+## Regras Básicas :
 
 - Todo o código deve ser desenvolvido nas linguagens **Java** , **C** , **C++** ou **C#**.
 - Essa lista de exercícios pode ser resolvida em grupos de até **três componentes**.
@@ -23,7 +23,7 @@ Primeiro trabalho prático da aula de "Algoritmos Computacionais em Grafo" do se
 - O código deverá ser desenvolvido observando-se o formato de entrada especificado.
 - Cópias de trabalho, se existirem, serão encaminhadas ao Colegiado de Coordenação do Curso.
 
-# Tarefas :
+## Tarefas :
 
 Implementar os seguintes métodos, em uma **classe Grafo** :
 
@@ -65,7 +65,7 @@ Implementar os seguintes métodos, em uma **classe Grafo** :
 - int getGrauSaida (Vertice v1);
 - bool hasCiclo ();
 
-# Formato do Arquivo de Entrada :
+## Formato do Arquivo de Entrada :
 
 Para a realização dos testes e avaliação do código desenvolvido, será fornecido um arquivo texto de
 entrada que apresentará, na primeira linha, o **número de vertices** do grafo. As linhas seguintes desse
