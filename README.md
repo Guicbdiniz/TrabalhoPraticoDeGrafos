@@ -1,5 +1,5 @@
 # TrabalhoPraticoDeGrafos
-Primeiro trabalho prático da aula de "Algoritmos Computacionais em Grafo" do semestre 2018/1.
+Primeiro trabalho prático da aula de "Algoritmos Computacionais em Grafo" do semestre 2020/1.
 
 # Enunciado:
 
